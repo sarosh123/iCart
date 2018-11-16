@@ -7,6 +7,7 @@ Application Working
   This application uses two major sdks
   Facebook sdk (for login)
   Paypal sdk(for payment)
+  
 Application PROs
 ---------------------
   This application is well written and with proper segregation of code.
