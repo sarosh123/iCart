@@ -1,18 +1,18 @@
 Application Working 
 ----------------------
-This is the simple e-commerce application which allows user to signup based on their msisdn.
-This application starts by landing on a splash screen  with animation and after 3 seconds it redirects to Adsplash screen.This screen has several addvertisements and when we close the adds it redirects itself to SignIn Activity.If the Credentials are created then we can login from this screen and if user is not registered we can navigate from this screen to Sign Up Activity.User has to enter information and if the user enter its information App sends the request to server.
-When the User Sign In it saves the password in sqllite db and then lands itself to the main screen which displays the Top sellers and new arrivals list.Both of these lists are populated from the webservice.This screen also have a search option and a Shopping cart item from which we can go to the Cart screen where we can see all the items that have been selected by the user.
-In Shopping Cart screen we can see selected items from where either we can view the products or we can checkout.The checkout option opens up a form where a user can enter his personal information like name address etc and the select the payment option as paypal.This app then uses paypal sdk for the payment.
-This application uses two major sdks
-Facebook sdk (for login)
-Paypal sdk(for payment)
+  This is the simple e-commerce application which allows user to signup based on their msisdn.
+  This application starts by landing on a splash screen  with animation and after 3 seconds it redirects to Adsplash screen.This screen has several addvertisements and when we close the adds it redirects itself to SignIn Activity.If the Credentials are created then we can login from this screen and if user is not registered we can navigate from this screen to Sign Up Activity.User has to enter information and if the user enter its information App sends the request to server.
+  When the User Sign In it saves the password in sqllite db and then lands itself to the main screen which displays the Top sellers and new arrivals list.Both of these lists are populated from the webservice.This screen also have a search option and a Shopping cart item from which we can go to the Cart screen where we can see all the items that have been selected by the user.
+  In Shopping Cart screen we can see selected items from where either we can view the products or we can checkout.The checkout option opens up a form where a user can enter his personal information like name address etc and the select the payment option as paypal.This app then uses paypal sdk for the payment.
+  This application uses two major sdks
+  Facebook sdk (for login)
+  Paypal sdk(for payment)
 Application PROs
 ---------------------
-This application is well written and with proper segregation of code.
-It has some good use of fragments and easily manageable code.
-Seperate folders for beans,fragemnts and adapter to display dynamic data in lists.
-Animation of cart in the splash screen is pretty neat.
+  This application is well written and with proper segregation of code.
+  It has some good use of fragments and easily manageable code.
+  Seperate folders for beans,fragemnts and adapter to display dynamic data in lists.
+  Animation of cart in the splash screen is pretty neat.
 
 Application Issues
 ------------------------
