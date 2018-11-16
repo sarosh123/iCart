@@ -5,8 +5,11 @@ Application Working
   When the User Sign In it saves the password in sqllite db and then lands itself to the main screen which displays the Top sellers and new arrivals list.Both of these lists are populated from the webservice.This screen also have a search option and a Shopping cart item from which we can go to the Cart screen where we can see all the items that have been selected by the user.
   In Shopping Cart screen we can see selected items from where either we can view the products or we can checkout.The checkout option opens up a form where a user can enter his personal information like name address etc and the select the payment option as paypal.This app then uses paypal sdk for the payment.
   This application uses two major sdks
+  
   Facebook sdk (for login)
+  
   Paypal sdk(for payment)
+  
   
 Application PROs
 ---------------------
