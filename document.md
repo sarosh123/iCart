@@ -25,7 +25,7 @@ Application Working
   
 Implementation
 ---------------
-Changed the background ofsignIn screen
+Changed the background of signIn screen
 Added new file in asset folder where we can easily add products and which will dynamically be placed in product list.
   
 Application PROs
