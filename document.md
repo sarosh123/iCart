@@ -23,8 +23,10 @@ Application Working
     Categories (USer can select the category of the product he is interested in like electronics etc)
     
   
-  
-  
+Implementation
+---------------
+Changed the background of signIn screen
+Added new file in asset folder where we can easily add products and which will dynamically be placed in product list.
   
 Application PROs
 ---------------------
